@@ -6,7 +6,7 @@ function App() {
       <nav class="navbar navbar-expand-lg bg-body-tertiary mb-3">
         <div class="container-fluid">
           <a class="navbar-brand" href="/">
-            Diana's Weather App
+            Diana's Weather App hey
           </a>
           <button
             class="navbar-toggler"
