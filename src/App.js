@@ -6,7 +6,7 @@ export default function App() {
       <nav class="navbar navbar-expand-lg bg-body-tertiary mb-3">
         <div class="container-fluid">
           <a class="navbar-brand" href="/">
-            Diana's Weather App hey
+            Diana's Weather App
           </a>
           <button
             class="navbar-toggler"
@@ -73,6 +73,26 @@ export default function App() {
             </div>
           </div>
         </div>
+        <br />
+        <footer>
+          Code by{" "}
+          <a
+            href="https://diana-decastro.netlify.app/"
+            target="_blank"
+            title="Diana Portfolio"
+          >
+            Diana
+          </a>{" "}
+          and open-sourced in{" "}
+          <a
+            href="https://github.com/dianainberlin"
+            target="_blank"
+            title="Diana github"
+          >
+            Github
+          </a>
+          .
+        </footer>
       </div>
     </div>
   );
