@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
       <nav class="navbar navbar-expand-lg bg-body-tertiary mb-3">
@@ -77,5 +77,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
