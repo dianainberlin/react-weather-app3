@@ -80,6 +80,7 @@ export default function App() {
             href="https://diana-decastro.netlify.app/"
             target="_blank"
             title="Diana Portfolio"
+            rel="noreferrer"
           >
             Diana
           </a>{" "}
@@ -88,6 +89,7 @@ export default function App() {
             href="https://github.com/dianainberlin"
             target="_blank"
             title="Diana github"
+            rel="noreferrer"
           >
             Github
           </a>
